@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "author": "Marcelo Alves",
+  "keywords": ["solar", "solaredge"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marceloalves/solarmon.git"

@@ -1,9 +1,13 @@
 # SolarMon
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
-
 API wrapper for the [SolarEdge Monitoring API](https://www.solaredge.com/sites/default/files/se_monitoring_api.pdf)
+
+---
+[![NPM](https://img.shields.io/npm/v/solarmon.svg)](https://www.npmjs.com/package/solarmon)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![MIT](https://img.shields.io/npm/l/solarmon.svg?color=blue)](https://github.com/MarceloAlves/solarmon/blob/master/LICENSE.md)
+
+
 
 This project was bootstrapped with [TSDX](https://github.com/jaredpalmer/tsdx).
 
@@ -49,3 +53,7 @@ The package is optimized and bundled with Rollup into multiple formats (CommonJS
 
 Runs the test watcher (Jest) in an interactive mode.
 By default, runs tests related to files changed since the last commit.
+
+### License
+
+MIT
