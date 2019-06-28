@@ -4,6 +4,7 @@ API wrapper for the [SolarEdge Monitoring API](https://www.solaredge.com/sites/d
 
 ---
 [![NPM](https://img.shields.io/npm/v/solarmon.svg)](https://www.npmjs.com/package/solarmon)
+[![Travis-CI](https://img.shields.io/travis/com/marceloalves/solarmon.svg)](https://travis-ci.org/MarceloAlves/solarmon)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![MIT](https://img.shields.io/npm/l/solarmon.svg?color=blue)](https://github.com/MarceloAlves/solarmon/blob/master/LICENSE.md)
 
