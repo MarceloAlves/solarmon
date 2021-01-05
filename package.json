@@ -48,7 +48,7 @@
     "semantic-release": "^15.13.18"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "config": {
     "commitizen": {
